@@ -1,4 +1,4 @@
-#Laboratory 6: implimenting SOLID, and MVC structure
+# Laboratory 6: implimenting SOLID, and MVC structure
 
 A simple MVC structure was implemented, by creating 3 new classes, model, view and controller respectively. 
 The model class contains all the variables, and the object instances of the classes (the other classes were bundled together in a file called model_data).
